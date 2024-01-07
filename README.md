@@ -13,16 +13,20 @@ React 18.2.0, Express 4.18.2, Bootstrap 5.3.2 was used in creating this applicat
 
 The user will be prompted to a user Login screen and account creation if they're a new user.
 
-<img width="200" alt="Screen Shot 2024-01-04 at 3 11 02 PM" src="https://github.com/jeffchan4/Scribify-Deployed/assets/112337204/47f906b3-a5e2-4375-8753-c86fcbff0743">
+<img width="350" alt="Screen Shot 2024-01-04 at 3 11 02 PM" src="https://github.com/jeffchan4/Scribify-ocr/assets/112337204/e28497f1-d9e4-4cd4-929c-542606175533">
+
+
 
 
 The provider will see their list of patients and can insert an image of a medical document to extract its text.
 
 ### Patient List
-<img width="300" alt="Screen Shot 2024-01-04 at 3 27 43 PM" src="https://github.com/jeffchan4/Scribify-Deployed/assets/112337204/b382c8d7-85b9-449f-bc16-4aa50211ea52">
+<img width="350" alt="Screen Shot 2024-01-04 at 3 27 43 PM" src="https://github.com/jeffchan4/Scribify-ocr/assets/112337204/9244251b-1ee4-4f41-bb37-609c3e20e39a">
+
 
 ### Insert Document into OCR
-<img width="300" alt="Screen Shot 2024-01-04 at 3 20 39 PM" src="https://github.com/jeffchan4/Scribify-Deployed/assets/112337204/cdb6fd80-9764-4652-b587-76319bf70e67">
+<img width="350" alt="Scribify" src="https://github.com/jeffchan4/Scribify-ocr/assets/112337204/771e5f68-b052-43fe-90f6-6a22141f1179">
+
 
 
 

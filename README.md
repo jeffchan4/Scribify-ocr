@@ -11,30 +11,42 @@ React 18.2.0, Express 4.18.2, Bootstrap 5.3.2 was used in creating this applicat
 
 ## How to use
 
-The user will be prompted to a user Login screen and account creation if they're a new user.
+### Login
+The provider will be prompted to a user login screen and account creation if they're a new user. 
 
 
 
 
-
-https://github.com/jeffchan4/Scribify-ocr/assets/112337204/eb923c25-85f2-401b-be12-c06eb1a9e2e2
-
-
+https://github.com/jeffchan4/Scribify-ocr/assets/112337204/9ecd1886-73ad-4ec7-929f-d585d1fd00fb
 
 
 
 
 
 ### Patient List
-The provider will see their list of patients and can insert an image of a medical document to extract its text.
+The provider will see their list of patients and can insert new patients.
 
 
-<img width="350" alt="Screen Shot 2024-01-04 at 3 27 43 PM" src="https://github.com/jeffchan4/Scribify-ocr/assets/112337204/9244251b-1ee4-4f41-bb37-609c3e20e39a">
+
+https://github.com/jeffchan4/Scribify-ocr/assets/112337204/fb1d6312-2bb2-4533-815b-06fc1ecc4cb2
 
 
-### Insert Document into OCR
 
-<img width="350" alt="Scribify" src="https://github.com/jeffchan4/Scribify-ocr/assets/112337204/771e5f68-b052-43fe-90f6-6a22141f1179">
+
+### Insert Document for OCR
+An image of a medical document can be uploaded for text extraction and will be saved within the patient's records.
+
+
+
+https://github.com/jeffchan4/Scribify-ocr/assets/112337204/5f388382-b1e8-4d75-8b8a-3d63be8bcb53
+
+### Generate Patient History
+By clicking the Summarize Button, a comprehensive Patient History will be generated from the extracted text in the patient's record. The user can logoff once done with their session.
+
+
+
+https://github.com/jeffchan4/Scribify-ocr/assets/112337204/6d88fa26-61f2-41ab-8e57-6020cea6e7dd
+
 
 
 

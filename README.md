@@ -15,7 +15,10 @@ The user will be prompted to a user Login screen and account creation if they're
 
 
 
-<img width="350" alt="Screen Shot 2024-01-04 at 3 11 02 PM" src="https://github.com/jeffchan4/Scribify-ocr/assets/112337204/e28497f1-d9e4-4cd4-929c-542606175533">
+
+
+https://github.com/jeffchan4/Scribify-ocr/assets/112337204/eb923c25-85f2-401b-be12-c06eb1a9e2e2
+
 
 
 
